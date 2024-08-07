@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ea74ae-3b10-4cf6-aa08-758c1008feff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/omar/anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/omar/single_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "omarLeetCodeBranch"
   }
 }]]></component>
   <component name="RunManager">
