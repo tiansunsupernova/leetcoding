@@ -38,6 +38,11 @@
     &quot;git-widget-placeholder&quot;: &quot;omarLeetCodeBranch&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/omar/projecteuler" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LeetCoding" />
