@@ -24,3 +24,9 @@ def find_10001st_prime():
             count += 1
     return number
 
+
+# From reading, the sympy library could've reduced the above code to one line!
+
+#from sympy import prime
+# result = prime(10001)
+# print(result)
