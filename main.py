@@ -3,7 +3,6 @@ from omar.projecteuler.even_fibonnacci_numbers import even_fib_numbers, generate
 from omar.projecteuler.smallest_multiple import find_smallest_number
 from omar.projecteuler.ten_thousand_and_first_prime_num import find_10001st_prime
 
-
 def main():
     # Multiple of 3 or 5 question
     # limit_for_multiple_of_3_and_5 = 1000
@@ -17,7 +16,7 @@ def main():
     # smallest_number = find_smallest_number()
     # print(f"The smallest positive number divisible by all numbers from 1 to 20 is: {smallest_number}")
 
-    # 10001st Prime Number question
+    #10001st Prime Number question
     ten_thousand_and_first_prime_num = find_10001st_prime()
     print(ten_thousand_and_first_prime_num)
 
