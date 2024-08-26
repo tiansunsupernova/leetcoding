@@ -21,6 +21,5 @@ def main():
     ten_thousand_and_first_prime_num = find_10001st_prime()
     print(ten_thousand_and_first_prime_num)
 
-
 if __name__ == "__main__":
     main()
